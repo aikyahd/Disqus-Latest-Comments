@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<title>example - Latest Comments</title>
+		<link>http://example-com.disqus.com/</link>
+		<description></description>
+		<atom:link href="https://example-com.disqus.com/comments.rss" rel="self"></atom:link>
+		<language>en</language>
+		<lastBuildDate>Tue, 10 Sep 2019 11:26:29 -0000</lastBuildDate>
+		<item>
+			<title>Some random title</title>
+			<link>https://example.com/some-random-title/#comment-XXX</link> <!-- The "XXX" will be a number, might be different in length -->
+			<description>Description of the post named random title.</description>
+			<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Comment Author Name</dc:creator>
+			<pubDate>Tue, 10 Sep 2019 11:26:29 -0000</pubDate>
+		</item>
+		<item>
+			<title>Some random title 2</title>
+			<link>https://example.com/some-random-title-2/#comment-XXX</link> <!-- The "XXX" will be a number, might be different in length -->
+			<description>Description of the post named random title 2.</description>
+			<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Comment Author Name</dc:creator>
+			<pubDate>Tue, 10 Sep 2019 11:26:29 -0000</pubDate>
+		</item>
+	</channel>
+</rss>

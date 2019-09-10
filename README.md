@@ -13,5 +13,5 @@ Follow the steps,
 
 
 
-NOTE: We have used PHP cURL method and converted the response text to an object using "simplexml_load_string" function. The code provide will only work if your XML file will have the following structure. For different structure, get creative and figure out how to use the code at your advantage.
+NOTE: We have used PHP cURL method and converted the response text to an object using "simplexml_load_string" function. The code provide will only work if your XML file will have the following structure. See the file named "latest.rss". For different structure, get creative and figure out how to use the code at your advantage.
 
